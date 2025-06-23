@@ -208,6 +208,18 @@ body {
   }
 }
 
+.cw-text {
+  text-align: center;
+  font-size: 1rem;
+  color: #222;
+  margin-bottom: 8px;
+  letter-spacing: 2px;
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-variant: small-caps;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
 @media (min-width: 600px) {
   #cw-logo {
     width: 120px;
